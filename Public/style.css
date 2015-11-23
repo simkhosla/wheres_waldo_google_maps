@@ -1,0 +1,49 @@
+#map-canvas {
+  width: 90%;
+  height: 550px;
+  margin: 0 auto;
+  background-color: black;
+}
+
+#inputs {
+  font-size: 18;
+  margin-left: 80px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.inputbox {
+  font-size: 2vw;
+}
+
+button {
+  font-size: 2vw;
+}
+
+#random {
+  margin-left: 50px;
+
+}
+
+#image {
+  position: absolute;
+  right: 8%;
+  top: 12%;
+  z-index: 20;
+}
+
+
+
+body {
+  background-color: red;
+}
+
+
+
+#waldoLogo {
+  top: 12%;
+  left: 8%;
+  position: fixed;
+  background-image: url('logo.png');
+  background-repeat: no-repeat;
+}
